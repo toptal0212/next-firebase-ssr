@@ -10,7 +10,7 @@ This project demonstrates how to implement authenticated server-side rendering w
 
 * `next@10`
 * `react@17`
-* `firebase@8`
+* `firebase@8` 
 * `firebase-admin@9.4`
 * `nookies@2.5`
 
